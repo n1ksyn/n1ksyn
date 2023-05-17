@@ -9,6 +9,9 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=n1ksyn&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide=contribs" alt="GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1ksyn&layout=compact&hide_border=true" /> |
 | ------------- | ------------- |
 
+### GitHub Trophies
+
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=n1ksyn&rank=-C,-B" alt="GitHub Trophies" />
 
 
 <!--
